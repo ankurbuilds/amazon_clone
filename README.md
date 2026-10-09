@@ -41,3 +41,11 @@ While making this project, I learned how to use HTML to structure a webpage and 
 ## Note
 
 This project is made for learning and practice purposes. It is a static homepage clone and does not include actual Amazon shopping, login, or search functionality.
+
+
+<H2SCREENSHOTS : </H2>
+
+<img width="1710" height="1022" alt="Screenshot 2026-10-09 at 10 12 06 PM" src="https://github.com/user-attachments/assets/b997387a-1077-4015-8fc1-117da686299a" />
+
+<img width="1710" height="1025" alt="Screenshot 2026-10-09 at 10 12 20 PM" src="https://github.com/user-attachments/assets/35083342-a355-410d-bf89-e605aad8801c" />
+
