@@ -42,7 +42,7 @@ While making this project, I learned how to use HTML to structure a webpage and 
 
 This project is made for learning and practice purposes. It is a static homepage clone and does not include actual Amazon shopping, login, or search functionality.
 
-
+<HR>
 <H2><UL>SCREENSHOTS :</UL> </H2>
 
 
